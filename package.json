@@ -1,0 +1,19 @@
+{
+  "name": "widget",
+  "version": "1.0.0",
+  "description": "Sanbox for testing things",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "ignore",
+    "do-not-distribute"
+  ],
+  "author": "kk",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
