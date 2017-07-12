@@ -1,3 +1,3 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 print("This is just a test file")

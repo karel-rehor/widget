@@ -6,3 +6,4 @@ node_js:
 before_install:
   - sudo apt-get install python3
   - python3 --version
+  - ./scripts/test.py
